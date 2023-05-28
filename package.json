@@ -1,0 +1,15 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:scss": "sass styles/scss/main.scss styles/css/main.css",
+    "compile:scss:watch": "sass styles/scss/main.scss styles/css/main.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.62.1"
+  }
+}
